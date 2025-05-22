@@ -1,1 +1,2 @@
-# MacSE-SE30-analog-replacement
+# MacSE-SE30-LCD
+
