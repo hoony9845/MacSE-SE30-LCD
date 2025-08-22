@@ -34,7 +34,18 @@ LCD
 Ananlog Board
 ----
 
- .. image:: Ananlog_Board/pics/ANALOG1.jpg
+It provides the following features:
+
+- Can use the original PSU / the Mean Well PT-65B / ATX Power Supply
+
+- A converter that can output the logic board's video signal to VGA (B/W, 800 x 640)
+
+- Screen brightness control
+
+- Fan RPM control
+
+ .. image:: Ananlog_Board/pics/ANALOG2.jpg
+ .. image:: Ananlog_Board/pics/ANALOG3.jpg
 
 ver3.0 BOM
  ========= ============================== ==================================================================================================================================== 
